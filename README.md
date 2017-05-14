@@ -177,3 +177,9 @@ Output configuration has options that affect the output of the Webpack compilati
 
 You call any development environment specific plugin here. The extract-text-webpack-plugin removes the compiled CSS from the bundle and emits is as a separate file.
 
+npm start - run the the project
+
+npm run build - change to the production mode and it will generate dist folder
+
+npm test - for testing
+
